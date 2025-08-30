@@ -1,0 +1,36 @@
+nav{
+    width: 100%;
+    border: 2px solid black ;
+    height: 4rem ;
+    display: flex;
+  text-align: center;
+  justify-content: center;
+  
+    
+}
+.first {
+    border:2px solid black ;
+    width: 20%;
+    height: 3.5rem;
+    margin:2px;
+    font-size: xx-large;
+  
+}
+.second{
+    border:2px solid black ;
+    width: 60%;
+    height: 3.5rem;
+    margin:2px;
+   
+}
+
+.third {
+    border:2px solid black ;
+    width: 20%;
+    height: 3.5rem;
+    margin:2px;
+}
+.second input {
+    font-size: xx-large;
+   margin: 7px;
+}
